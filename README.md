@@ -1,1 +1,1 @@
-# PRO2-java
+# Igrica v programskem jeziku Java
